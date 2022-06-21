@@ -26,7 +26,7 @@
         <logback.version>1.2.3</logback.version>
         <pool.version>2.4.2</pool.version>
         <cassandra.version>2.4.2</cassandra.version>
-        <mysql.version>8.0.18</mysql.version>
+        <mysql.version>8.0.28</mysql.version>
         <cassandra-driver.version>3.8.0</cassandra-driver.version>
         <slf4j.version>1.7.30</slf4j.version>
         <log4j.version>1.2.17</log4j.version>
